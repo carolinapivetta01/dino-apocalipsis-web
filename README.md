@@ -13,7 +13,7 @@
 ## 🎮 Mecánicas de Juego
 
 * **Control de Personaje:** Movimiento omnidireccional en el plano 2D con velocidad normal y mecánica de *Sprint* mediante la tecla `LeftShift`.
-* **Sistema de Disparo:** Instanciación de proyectiles alineados con la dirección y la orientación actual del personaje (tecla `F`).
+* **Sistema de Disparo:** Instanciación de proyectiles alineados con la dirección y la orientación actual del personaje (tecla `click.izquierdo.mouse`).
 * **Enemigos:** Dinosaurios con comportamiento de persecución y escalado de dificultad por tiempo (modo salvaje / temporizador).
 * **Física y Colisiones 2D:** Detección de colisiones e impactos mediante la API de física 2D de Unity (`Rigidbody2D` y `Collider2D`).
 
