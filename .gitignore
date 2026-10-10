@@ -1,3 +1,15 @@
 Plaintext
+# Entornos virtuales y dependencias
+venv/
 node_modules/
+__pycache__/
+
+# Variables de entorno y credenciales
 .env
+*.env.local
+config.json
+secrets.json
+
+# Sistema
+.DS_Store
+*.log
