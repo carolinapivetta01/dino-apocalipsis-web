@@ -16,5 +16,4 @@ Backend oficial para el juego de plataformas 2D **Dino Apocalipsis**. Desarrolla
 ## 🛠️ Instalación y Configuración
 1. Abre tu terminal de **PowerShell** o **CMD** y clona el repositorio:
    ```powershell
-   git clone [https://github.com/tu-usuario/tu-repositorio.git](https://github.com/tu-usuario/tu-repositorio.git)
-   cd dino-game-backend
+   
