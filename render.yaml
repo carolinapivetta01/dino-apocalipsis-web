@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: dino-apocalipsis-web
+    env: static
+    buildCommand: echo "No build required"
+    staticPublishPath: .
+    headers:
+      - path: /*.wasm
+        name: Content-Type
+        value: application/wasm
