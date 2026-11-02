@@ -1,7 +1,7 @@
 Markdown
 # Dino Apocalipsis - Backend
 
-Backend oficial para el juego de plataformas 2D **Dino Apocalipsis**. Desarrollado con Node.js y Express, este servidor se encarga de gestionar la persistencia de las puntuaciones más altas (*High Scores*) y la tabla de líderes de los jugadores mediante una base de datos en MongoDB.
+Backend para el juego de plataformas 2D **Dino Apocalipsis**. Desarrollado con Node.js y Express, este servidor se encarga de gestionar la persistencia de las puntuaciones más altas (*High Scores*) y la tabla de líderes de los jugadores mediante una base de datos en MongoDB.
 
 ## 🚀 Tecnologías utilizadas
 - **Node.js** & **Express**: Entorno de ejecución y framework para la creación de la API REST.
